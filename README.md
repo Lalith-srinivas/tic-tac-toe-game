@@ -22,6 +22,6 @@ A fun and interactive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **
 - Allows game reset
 
 ## 🚀 Live Demo
-[Play it here](https://your-netlify-link.netlify.app)
+[Play it here](https://fun-tic-tac-toe-games.netlify.app/)
 
 
